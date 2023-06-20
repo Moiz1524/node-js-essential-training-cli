@@ -1,4 +1,4 @@
-### Node.js Essential Training
+# Node.js Essential Training
 
 This repository contains my code practice and notes from the Node.js Essential Training course on LinkedIn Learning. The course covered essential concepts of Node.js from a command-line interface (CLI) perspective. The repository is organized into the following folders:
 
